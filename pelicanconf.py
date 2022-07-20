@@ -1,12 +1,12 @@
 AUTHOR = 'Jesús Fonseca'
 SITENAME = 'Salty Programmer'
-SITEURL = ''
+SITEURL = 'saltyprogrammer.github.io'
 
 PATH = 'content'
 
 TIMEZONE = 'America/Mexico_City'
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = 'es'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
